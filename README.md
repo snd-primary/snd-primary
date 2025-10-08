@@ -1,4 +1,5 @@
-![GitHub Stats](https://your-vercel-app.vercel.app/api?username=snd-primary&show_icons=true&count_private=true)
+![GitHub Stats](github-readme-stats-msly.vercel.app/api?username=snd-primary&show_icons=true&count_private=true)
+
 <!--
 **snd-primary/snd-primary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snd-primary)](https://github.com/anuraghazra/github-readme-stats)
